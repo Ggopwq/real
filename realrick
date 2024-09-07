@@ -6,4 +6,4 @@ local Window = redzlib:MakeWindow({
   SaveFolder = "Redz Config"
 })
 
-local Tab1 = Window:MakeTab({"Tab 1", "cool"})
+local Tab1 = Window:MakeTab({"القائمه الاساسيه", "cool"})
